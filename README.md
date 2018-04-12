@@ -13,17 +13,19 @@ npm install
 
 Para crear una tabla, ejemplo:
 
-````
+```
  node app crear --base 8 --limite 8
 
  ```
 
  Para listar una tabla
 
- ````
+
+ ```
  node app listar --base 5 --limite 10
 
- ````
+ ```
+ 
 
 Cambie la base y el limite a su antojo
 
